@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Profile Details App",
+    "slug": "profile-details-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/profile.png",
+    "userInterfaceStyle": "light",
+    "scheme": "profile-app"
+  }
+}
